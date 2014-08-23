@@ -46,7 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Beer.cs" />
+     <Compile Include="Assets\Scripts\ActivatedObject.cs" />
+     <Compile Include="Assets\Scripts\CharacterControllerScript.cs" />
+     <Compile Include="Assets\Scripts\CharacterScript.cs" />
+     <Compile Include="Assets\Scripts\Locker.cs" />
+     <Compile Include="Assets\Scripts\SceneRotate.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

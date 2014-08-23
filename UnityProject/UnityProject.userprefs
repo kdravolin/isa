@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Beer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ActivatedObject.cs">
     <Files>
-      <File FileName="C:\Users\kdravolin\Documents\2dTest\Assets\Scripts\CharacterControllerScript.cs" Line="31" Column="24" />
-      <File FileName="Assets\Beer.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\CharacterScript.cs" Line="31" Column="28" />
+      <File FileName="Assets\Scripts\ActivatedObject.cs" Line="6" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
